@@ -1,0 +1,11 @@
+/build
+/gradle.properties
+/proguard-rules.pro
+/.idea/
+/gradlew
+/gen/
+/local.properties
+/LICENSE.txt
+/gradle/
+/.gradle/
+/gradlew.bat
